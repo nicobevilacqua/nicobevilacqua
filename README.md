@@ -16,6 +16,8 @@
   </a>
 </h3> 
 
+<br/>
+
 - 🔭 &nbsp; I’m a Full Stack Engineer.
 
 - 🔨 &nbsp; Working with Vue.js as Senior Frontend Engineer.
@@ -25,6 +27,8 @@
 - 👯 &nbsp; Looking to collaborate on **crypto** projects and technologies.
 
 - 📫 &nbsp; How to reach me: **nicobevilacqua@gmail.com**.
+
+<br/>
 
     
 <h3 align="center">⚙️ &nbsp;My Stats:</h3>
@@ -36,6 +40,9 @@
 </p>
 
 
+
+  <br/>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -45,8 +52,10 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicobevilacqua@gmail.com)
 </div>
   
+  <br/>
   
-### 🛠 &nbsp;Tech Stack:
+  <h3 align="center">🛠 &nbsp;Tech Stack:</h3>
+  
 <div align="center">
     <img src="https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity" /> 
   <img src="https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum" />
