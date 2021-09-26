@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 there, I'm Nicolás.</h1>
+<h1 align="center">Hi there 👋, I'm Nicolás.</h1>
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
@@ -45,23 +45,42 @@
 
   <h3 align="center">🛠 &nbsp;Tech Stack:</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity" /> 
-  <img src="https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum" />
-  <img src="https://img.shields.io/badge/-Web3-05122A?style=flat&logo=Web3.js" />
+    <img src="https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity" alt="Solidity" /> 
+  <img src="https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/-Web3-05122A?style=flat&logo=Web3.js" alt="Web3" />
+  <img src="https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAF6SURBVHgBzVK7TgJBFD2zDAFjomthjIURaAyFAf+AksKCSkt+wU8gljZYW5lY2VlY2FlaGY2RwsZd1PhKdBejZGGXud5ZDLiAj05vcmZnZ+ac+wT+2sRXF+Qgzx8Nl2GLKZziN8ZEkxqoMiiCF1R/JPt3KASPsMgdIPdhsYPCSHLrCiXvBtS+7xN2tiTt7WaGhRyUImTHQqppwWKQ/9B9ZJ8Lyi4kaWW1SK+3MiKgXDhkwdRcQy+xtlHp+EgxIGJd0f0Difq1gbdmHEfHswOFgulJrOmt1IsKVE73Q7fE+BBYLgZwG0A6c4GZ6WaEL9it8lHmbSWMgJTIU4cPO91LbfNzhLOawGV9EovZp6Ga8ftULwLODEacU5HRRxvrPpLJGkaZUiLMRXBRtkmhrAIdCSsm8a0FLc1mZ4kw2k3pPeOw1USOf3MsCDlGIjH+OeHQEXtksgd4jd6NnZhAPTLKzgmProTZCcIWmYPeWcfmQG3WcdNL4Yj/A3sHQsTPg0NzjkoAAAAASUVORK5CYII=" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/-IPFS-05122A?style=flat&logo=ipfs" alt="IPFS" />
   <br />
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-Mocha-05122A?style=flat&logo=mocha" alt="Mocha" />
+   <img src="https://img.shields.io/badge/-Chai-05122A?style=flat&logo=chai" alt="Chai" />
+  <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" alt="Jest" />
+  <br />
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-<img src="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js" />
-    <img src="https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js" />
-  <img src="https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify" />
-<img src="https://img.shields.io/badge/-Stylus-05122A?style=flat&logo=stylus" />
-<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
 <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
-<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" />
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
+  <br />
+  <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA1VBMVEUAAAAGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttT///+u2wsVAAAARXRSTlMAAAMOAT2iyqFBAtXv/epkCgZhQCp88HgmPGwJZ+z87dNMECdFps6nYMvp6MhmBA/N0vT4hxMFWSBW4fmfSmtH1y57eiQbAX9yAAAAAWJLR0RGF7r57QAAAAd0SU1FB+UFGA00Kr9ZeeMAAACgSURBVBjTjY7HGoJADIQJoAiiNAt2XRXEsnbs3bz/K5k9iJ78nFv+JDMjSX8JQFYUGSCZ1VRa0zK6Ae+9njVziHmLjmwBHNcrFEuIZtmvVAWQa2RSbyA2W+0OPbCuz4j0+kEQeqrkDKLhaDyhIz5lnJLc2XyBuFzZAOtYxGy2bLdHPBxP1pkLEAPA5YrkGN0gKeLfw/Dx/FQlZBhf42+9AFEMD2Yqwj0qAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIxLTA1LTI0VDEzOjUyOjQyKzAwOjAwY4G93AAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMS0wNS0yNFQxMzo1Mjo0MiswMDowMBLcBWAAAABXelRYdFJhdyBwcm9maWxlIHR5cGUgaXB0YwAAeJzj8gwIcVYoKMpPy8xJ5VIAAyMLLmMLEyMTS5MUAxMgRIA0w2QDI7NUIMvY1MjEzMQcxAfLgEigSi4A6hcRdPJCNZUAAAAASUVORK5CYII=" />
+<img src="https://img.shields.io/badge/-Stylus-05122A?style=flat&logo=stylus" />
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass" />
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" />
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
+  <br />
+<img src="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js" />
+    <img src="https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js" />  
+  <img src="https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify" />
+  <br />
+<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" />
+<br />
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab" />
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+  <br />
 <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" />
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira" />
+  <br />
+  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare" />
 </div>
