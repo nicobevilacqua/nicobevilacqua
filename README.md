@@ -16,8 +16,6 @@
 
 - 🔭 &nbsp; I’m a Full Stack Engineer.
 
-- 🔨 &nbsp; Working with Vue.js as Senior Frontend Engineer.
-
 - 📖 &nbsp; Learning Solidity and Smart Contracts development.
 
 - 👯 &nbsp; Looking to collaborate on **crypto** projects and technologies.
