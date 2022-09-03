@@ -30,6 +30,14 @@
 </a>
 </p>
 
+<h3>Challenges:</h3>
+<ul>
+  <li>Capture the Ether: <a href="https://github.com/nicobevilacqua/CaptureTheEtherSolutions">With Hardhat</a> - <a href="https://github.com/nicobevilacqua/CaptureTheEtherSolutionsWithFoundry">With Foundry</a></li>
+  <li>Damn Vulnerable Defi: <a href="https://github.com/nicobevilacqua/DamnVulnerableDefiSolutions">With Hardhat</a></li>
+  <li>The Ethernaut: <a href="https://github.com/nicobevilacqua/EthernautSolutions">With Hardhat</a></li>
+  <li>Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript NFTs: <a href="https://github.com/nicobevilacqua/PatrickFreeCodeCampCourseNFTs">With Foundry</a></li>
+</ul>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
