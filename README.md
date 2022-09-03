@@ -38,6 +38,12 @@
   <li>Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript NFTs: <a href="https://github.com/nicobevilacqua/PatrickFreeCodeCampCourseNFTs">With Foundry</a></li>
 </ul>
 
+<h3>Boilerplates</h3>
+<ul>
+  <li><a href="https://github.com/nicobevilacqua/hardhat-solidity-typescript-boilerplate">Hardhat and Typescript</a></li>
+    <li><a href="https://github.com/nicobevilacqua/hardhat-foundry-typescript-boilerplate">Hardhat, Typescript and Foundry</a></li>
+  </ul>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
