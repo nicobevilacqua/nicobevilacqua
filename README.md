@@ -41,7 +41,7 @@
 <h3>Boilerplates</h3>
 <ul>
   <li><a href="https://github.com/nicobevilacqua/hardhat-solidity-typescript-boilerplate">Hardhat and Typescript</a></li>
-    <li><a href="hardhat-solidity-typescript-foundry-boilerplate">Hardhat, Typescript and Foundry</a></li>
+    <li><a href="https://github.com/nicobevilacqua/hardhat-solidity-typescript-foundry-boilerplate">Hardhat, Typescript and Foundry</a></li>
   </ul>
 
 <h3 align="center">Connect with me:</h3>
