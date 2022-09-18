@@ -44,6 +44,13 @@
   <li><a href="https://github.com/nicobevilacqua/hardhat-solidity-typescript-boilerplate">Hardhat and Typescript</a></li>
     <li><a href="https://github.com/nicobevilacqua/hardhat-solidity-typescript-foundry-boilerplate">Hardhat, Typescript and Foundry</a></li>
   </ul>
+  
+<h3>Hackathons</h3>
+<ul>
+  <li>
+    <a href="https://github.com/nicobevilacqua/StakeTogether-BearBuildersHackathon">StakeTogether - Bear Builders Hackathon - Buenos Aires, September 2022</a>
+  </li>
+</ul>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
