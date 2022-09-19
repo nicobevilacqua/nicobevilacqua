@@ -43,6 +43,7 @@
 <ul>
   <li><a href="https://github.com/nicobevilacqua/hardhat-solidity-typescript-boilerplate">Hardhat and Typescript</a></li>
     <li><a href="https://github.com/nicobevilacqua/hardhat-solidity-typescript-foundry-boilerplate">Hardhat, Typescript and Foundry</a></li>
+    <li><a href="https://github.com/nicobevilacqua/sveltekit-tailwind-typescript-ethers-app-boilerplate">Sveltekit, Tailwind, Typescript and Ethers</a></li>
   </ul>
   
 <h3>Hackathons</h3>
