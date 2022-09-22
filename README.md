@@ -30,7 +30,7 @@
 </a>
 </p>
 
-<h3>Challenges:</h3>
+<h3>Challenges and CTFs:</h3>
 <ul>
   <li>Capture the Ether: <a href="https://github.com/nicobevilacqua/CaptureTheEtherSolutions">With Hardhat</a> - <a href="https://github.com/nicobevilacqua/CaptureTheEtherSolutionsWithFoundry">With Foundry</a></li>
   <li>Damn Vulnerable Defi: <a href="https://github.com/nicobevilacqua/DamnVulnerableDefiSolutions">With Hardhat</a></li>
