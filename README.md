@@ -37,6 +37,7 @@
   <li>The Ethernaut: <a href="https://github.com/nicobevilacqua/EthernautSolutions">With Hardhat</a></li>
   <li>Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript NFTs: <a href="https://github.com/nicobevilacqua/PatrickFreeCodeCampCourseNFTs">With Foundry</a></li>
   <li>Defi Security Summit Standford 2022: <a href="https://github.com/nicobevilacqua/DeFiSecuritySummitStanfordSolutions">With Foundry</a></li>
+  <li><a href="https://github.com/nicobevilacqua/hctf">Hats Finance CTF #2</a></li>
 </ul>
 
 <h3>Boilerplates</h3>
