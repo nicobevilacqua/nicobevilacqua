@@ -49,7 +49,7 @@
 <h3>Hackathons</h3>
 <ul>
   <li>
-    <a href="https://github.com/nicobevilacqua/StakeTogether-BearBuildersHackathon">StakeTogether - Bear Builders Hackathon - Buenos Aires, September 2022</a>
+    <a href="https://github.com/nicobevilacqua/StakeTogether">StakeTogether - Bear Builders Hackathon - Buenos Aires, September 2022</a>
   </li>
   <li>
     <a href="https://github.com/eugenioclrc/nft-loans-crowfund">ETHGlobal Hackathon - (WIP)</a>
