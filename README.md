@@ -60,6 +60,12 @@
 <h3>Courses and Bootcamps</h3>
 <ul>
   <li>
+    <a href="https://www.udemy.com/certificate/UC-beff3936-1037-4e4c-953b-f1f38caed8f3">Udemy: Advanced Solidity: Understanding and Optimizing Gas Costs</a>
+  </li>
+  <li>
+    <a href="https://www.udemy.com/certificate/UC-78458e74-8304-420e-8bfb-90e41cde78e2">Udemy: Advanced Solidity: Yul and Assembly</a>
+  </li>
+  <li>
     Encode Expert Solidity Bootcamp - <a href="https://github.com/nicobevilacqua/ExpertSolidityBootcampAssemblyExercises">Exercises - (WIP)</a>
   </li>
 </ul>
