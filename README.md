@@ -57,6 +57,13 @@
   </li>
 </ul>
 
+<h3>Courses and Bootcamps</h3>
+<ul>
+  <li>
+    Encode Expert Solidity Bootcamp - <a href="https://github.com/nicobevilacqua/ExpertSolidityBootcampAssemblyExercises">Exercises - (WIP)</a>
+  </li>
+</ul>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
