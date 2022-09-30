@@ -55,6 +55,13 @@
   <li>
     <a href="https://github.com/eugenioclrc/nft-loans-crowfund">ETHGlobal Hackathon - (WIP)</a>
   </li>
+</ul
+
+<h3>Collaborations</h3>
+<ul>
+  <li>
+    <a href="https://webtres.club/">webtres.club website</a> - <a href="https://github.com/webtresclub/website">Repository</a>
+  </li>
 </ul>
 
 <h3>Courses and Bootcamps</h3>
