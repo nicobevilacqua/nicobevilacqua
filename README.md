@@ -55,7 +55,7 @@
   <li>
     <a href="https://github.com/eugenioclrc/nft-loans-crowfund">ETHGlobal Hackathon - (WIP)</a>
   </li>
-</ul
+</ul>
 
 <h3>Collaborations</h3>
 <ul>
