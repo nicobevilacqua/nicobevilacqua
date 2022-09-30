@@ -73,7 +73,7 @@
     <a href="https://www.udemy.com/certificate/UC-78458e74-8304-420e-8bfb-90e41cde78e2">Udemy: Advanced Solidity: Yul and Assembly</a>
   </li>
   <li>
-    Encode Expert Solidity Bootcamp - <a href="https://github.com/nicobevilacqua/ExpertSolidityBootcampExercises">Exercises - (WIP)</a>
+    <a href="https://github.com/nicobevilacqua/ExpertSolidityBootcampExercises">Encode Expert Solidity Bootcamp Exercises</a> - (WIP)
   </li>
 </ul>
 
