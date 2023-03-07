@@ -54,7 +54,7 @@
     <a href="https://github.com/nicobevilacqua/StakeTogether">StakeTogether - Bear Builders Hackathon - Buenos Aires, September 2022</a>
   </li>
   <li>
-    <a href="https://github.com/eugenioclrc/nft-loans-crowfund">ETHGlobal Hackathon - (WIP)</a>
+    <a href="https://github.com/eugenioclrc/huffswap">HuffSwap - The most optimized Uniswap V1 written in Huff - ETHDenver 2023 - Buidlweek Hackathon</a>
   </li>
 </ul>
 
