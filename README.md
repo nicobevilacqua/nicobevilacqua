@@ -16,7 +16,9 @@
 
 - 🔭 &nbsp; I’m a Full Stack Engineer.
 
-- 📖 &nbsp; Learning Solidity and Smart Contracts development.
+- 📖 &nbsp; Solidity and Smart Contracts developer.
+
+- 🔍 &nbsp; Independent Smart Contracts Security Auditor.
 
 - 👯 &nbsp; Looking to collaborate on **crypto** projects and technologies.
 
