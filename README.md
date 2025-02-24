@@ -3,7 +3,6 @@
 <h3 align="center">
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Buenos Aires, Argentina-blue?style=flat-square" /> &nbsp;
-    <img src="https://img.shields.io/badge/Age-33-blue?style=flat-square" /> &nbsp;
         <img src="https://img.shields.io/badge/Languages-Spanish & English-blue?style=flat-square" /> <br/>
     <br/>
   <a href="https://github.com/nicobevilacqua" target="_blank">
