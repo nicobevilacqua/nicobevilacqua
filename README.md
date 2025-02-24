@@ -14,16 +14,6 @@
   </a>
 </h3> 
 
-- 🔭 &nbsp; I’m a Full Stack Engineer.
-
-- 📖 &nbsp; Solidity and Smart Contracts developer.
-
-- 🔍 &nbsp; Independent Smart Contracts Security Auditor.
-
-- 👯 &nbsp; Looking to collaborate on **crypto** projects and technologies.
-
-- 📫 &nbsp; How to reach me: **nicobevilacqua@gmail.com**.
-    
 <h3 align="center">⚙️ &nbsp;My Stats:</h3>
 <p align="center">
 <a href="https://github.com/nicobevilacqua">
@@ -31,54 +21,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicobevilacqua&layout=compact&langs_count=8&theme=react&count_private=true"/>
 </a>
 </p>
-
-<h3>Challenges and CTFs:</h3>
-<ul>
-  <li>Capture the Ether: <a href="https://github.com/nicobevilacqua/CaptureTheEtherSolutions">With Hardhat</a> - <a href="https://github.com/nicobevilacqua/CaptureTheEtherSolutionsWithFoundry">With Foundry</a></li>
-  <li>Damn Vulnerable Defi: <a href="https://github.com/nicobevilacqua/DamnVulnerableDefiSolutions">With Hardhat</a></li>
-  <li>The Ethernaut: <a href="https://github.com/nicobevilacqua/EthernautSolutions">With Hardhat</a></li>
-  <li>Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript NFTs: <a href="https://github.com/nicobevilacqua/PatrickFreeCodeCampCourseNFTs">With Foundry</a></li>
-  <li>Defi Security Summit Standford 2022: <a href="https://github.com/nicobevilacqua/DeFiSecuritySummitStanfordSolutions">With Foundry</a></li>
-  <li><a href="https://github.com/nicobevilacqua/hctf">Hats Finance CTF #2</a></li>
-  <li><a href="https://github.com/nicobevilacqua/EthernautDAOWeeklyChallengesSolutions">Ethernaut DAO weekly challenges</a></li>
-</ul>
-
-<h3>Boilerplates</h3>
-<ul>
-  <li><a href="https://github.com/nicobevilacqua/hardhat-solidity-typescript-boilerplate">Hardhat and Typescript</a></li>
-    <li><a href="https://github.com/nicobevilacqua/hardhat-solidity-typescript-foundry-boilerplate">Hardhat, Typescript and Foundry</a></li>
-    <li><a href="https://github.com/nicobevilacqua/sveltekit-tailwind-typescript-ethers-app-boilerplate">Sveltekit, Tailwind, Typescript and Ethers</a></li>
-  </ul>
-  
-<h3>Hackathons</h3>
-<ul>
-  <li>
-    <a href="https://github.com/nicobevilacqua/StakeTogether">StakeTogether - Bear Builders Hackathon - Buenos Aires, September 2022</a>
-  </li>
-  <li>
-    <a href="https://github.com/eugenioclrc/huffswap">HuffSwap - The most optimized Uniswap V1 written in Huff - ETHDenver 2023 - Buidlweek Hackathon</a>
-  </li>
-</ul>
-
-<h3>Collaborations</h3>
-<ul>
-  <li>
-    <a href="https://webtres.club/">webtres.club website</a> - <a href="https://github.com/webtresclub/website">Repository</a>
-  </li>
-</ul>
-
-<h3>Courses and Bootcamps</h3>
-<ul>
-  <li>
-    <a href="https://www.udemy.com/certificate/UC-beff3936-1037-4e4c-953b-f1f38caed8f3">Udemy: Advanced Solidity: Understanding and Optimizing Gas Costs</a>
-  </li>
-  <li>
-    <a href="https://www.udemy.com/certificate/UC-78458e74-8304-420e-8bfb-90e41cde78e2">Udemy: Advanced Solidity: Yul and Assembly</a>
-  </li>
-  <li>
-    <a href="https://github.com/nicobevilacqua/ExpertSolidityBootcampExercises">Encode Expert Solidity Bootcamp Exercises</a> - (WIP)
-  </li>
-</ul>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
